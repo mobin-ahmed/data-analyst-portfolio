@@ -1,0 +1,39 @@
+SQL
+-----------------------------------------------
+
+## SELECT
+
+Used to retrieve data.
+
+Example:
+
+SELECT *
+FROM customers;
+
+## WHERE
+
+Filters records.
+
+Example:
+
+SELECT *
+FROM customers
+WHERE age > 30;
+--------------------------------------------------------
+AI tools
+--------------------------------------------------------
+
+## ChatGPT
+
+Uses:
+- SQL generation
+- Python assistance
+- Interview preparation
+
+## Julius AI
+
+Uses:
+- Data exploration
+- Dataset analysis
+- Quick visualizations
+
