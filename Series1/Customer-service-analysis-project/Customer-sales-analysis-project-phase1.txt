@@ -1,0 +1,90 @@
+PHASE 1: CLIENT REQUEST to BUSINESS UNDERSTANDING
+------------------------------------------------------
+STEP 1: DEFINING THE CLIENT (SIMULATION)
+
+Client: A mid-sized retail company (online + offline sales)
+
+Business Problem (given by client): “We have sales data but we don’t understand our customers and sales performance. We want insights to improve revenue.”
+
+
+STEP 2: ASKING BUSINESS QUESTIONS
+=>Customer-focused:
+Who are our top customers?
+Which customers generate the most revenue?
+Are there repeat customers?
+
+=>Sales-focused:
+What is total sales?
+What are monthly trends?
+Are sales increasing or decreasing?
+
+=>Product-focused:
+Which products sell the most?
+Which products underperform?
+
+
+STEP 3: DEFINING BUSINESS OBJECTIVES
+questions → objectives
+
+=>Final Objectives:
+Identify top customers
+Analyse sales performance over time
+Evaluate product performance
+Provide actionable business insights
+
+=>These will go into project documentation
+
+
+STEP 4: DEFINING Key Performance Indicators(KPIs)
+
+KPIs = metrics companies care about
+
+=>Customer KPIs:
+Total customers
+Top 10 customers by revenue
+
+=>Sales KPIs:
+Total sales
+Average sales
+Monthly sales trend
+
+=>Product KPIs:
+Top-selling products
+Least-performing products
+
+
+STEP 5: DEFINING DELIVERABLES THAT CLIENT WILL GET
+=>Final Output:
+Dashboard
+Insights report (simple summary)
+Dataset
+
+
+STEP 6: WRITING PROJECT STATEMENT
+=>for
+GitHub
+LinkedIn
+Interview
+
+Project Title: Customer Sales Analysis
+
+Objective:
+To analyse customer and sales data to identify key trends, top customers, and product performance, and provide actionable insights to improve business decision-making.
+
+Key Focus Areas:
+- Customer segmentation
+- Sales trends
+- Product performance
+
+Tools to be used:
+- SQL
+- Excel
+- Python
+- Power BI
+
+
+
+TEP 7: THINKING LIKE AN ANALYST
+=>What business problem am I solving?
+
+Not: Which tool should I use?
