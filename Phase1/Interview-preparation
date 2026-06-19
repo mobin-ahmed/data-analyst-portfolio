@@ -13,3 +13,186 @@ HAVING filters grouped data after aggregation.
 ## What does a Data Analyst do?
 
 A Data Analyst collects, cleans, analyses, and visualizes data to support business decisions.
+----------------------------------------------------------------------------------------
+
+PHASE 1 - FULL INTERVIEW QUESTIONS &
+ANSWERS
+
+Q: What was the objective of your Customer Sales Analysis project?
+A: To analyse customer and sales data to identify trends, top customers, and business insights for
+better decision-making.
+Q: What business problem were you trying to solve?
+A: The client lacked visibility into customer behaviour, product performance, and sales trends.
+Q: How did you define the project requirements?
+A: By understanding business goals and converting them into analytical questions and KPIs.
+Q: Why is business understanding important before analysis?
+A: It ensures the analysis solves the correct business problem.
+Q: What happens if analysts skip the business understanding phase?
+A: They may analyse irrelevant data and provide useless insights.
+Q: How would you clarify vague client requirements?
+A: By asking focused questions about goals, KPIs, and expected outcomes.
+Q: How do data analysts interact with stakeholders?
+A: Through meetings, reports, dashboards, and business discussions.
+Q: What questions would you ask a client before starting analysis?
+A: I would ask about business goals, KPIs, data sources, and expected deliverables.
+Q: What is the difference between a business problem and a technical problem?
+A: Business problems focus on goals, while technical problems focus on implementation.
+Q: Why should analysts understand the business domain?
+A: To provide meaningful and actionable insights.
+Q: What business questions did you define?
+A: Questions related to customers, sales trends, and product performance.
+Q: Why is identifying top customers important?
+A: To understand which customers contribute most revenue.
+Q: Why analyse sales trends?
+A: To identify growth patterns and seasonal behaviour.
+Q: Why analyse product performance?
+A: To identify best-selling and underperforming products.
+Q: What insights can businesses gain from customer analysis?
+A: Customer value, purchasing patterns, and retention opportunities.
+Q: How can customer segmentation help a company?
+A: It allows businesses to target different customer groups effectively.
+Q: How can sales trend analysis improve business decisions?
+A: It supports forecasting and strategic planning.
+Q: What is a KPI?
+A: A KPI is a measurable value used to evaluate business performance.
+Q: What KPIs did you define?
+A: Total sales, top customers, monthly trends, and product performance.
+Q: Why are KPIs important in analytics?
+A: They measure progress toward business goals.
+Q: What is the difference between metrics and KPIs?
+A: Metrics measure activity; KPIs measure strategic success.
+Q: Which KPI would you prioritise for sales analysis?
+A: Total sales and top customer contribution.
+Q: How would you measure business performance?
+A: Using sales, customer, and product KPIs.
+Q: Why are top customers important to businesses?
+A: They contribute significantly to revenue.
+Q: What is revenue analysis?
+A: The process of analysing income generated from sales.
+Q: What tools did you plan to use and why?
+A: SQL for querying, Excel for quick analysis, Python for deeper analysis, and Power BI for
+dashboards.
+Q: Why use SQL in this project?
+A: To retrieve and manipulate structured data efficiently.
+Q: Why use Excel?
+A: For quick calculations and initial exploration.
+Q: Why use Python?
+A: For advanced analysis and automation.
+Q: Why use Power BI?
+A: To create interactive dashboards and visualisations.
+Q: What role does AI play in modern analytics?
+A: AI helps automate tasks and improve insights.
+Q: Why did you choose Power BI instead of only Excel?
+A: Power BI handles larger datasets and interactive dashboards.
+Q: What are the advantages of dashboards?
+A: They make insights easier to understand and communicate.
+Q: Explain your project workflow.
+A: Business understanding, data collection, cleaning, analysis, visualisation, and reporting.
+Q: What are the main phases of a data analytics project?
+A: Planning, data collection, cleaning, analysis, visualisation, and delivery.
+Q: What happens after business understanding?
+A: Data collection and preparation.
+Q: Why is data cleaning important?
+A: Because poor-quality data leads to incorrect analysis.
+Q: Why should analysts document projects?
+A: For clarity, collaboration, and reproducibility.
+Q: How do analysts deliver findings to clients?
+A: Through dashboards, reports, and presentations.
+Q: What deliverables would you provide to the client?
+A: Dashboards, reports, and business recommendations.
+Q: How would you explain technical findings to non-technical stakeholders?
+A: Using simple language and visuals.
+Q: How would you handle changing client requirements?
+A: By communicating clearly and adjusting priorities.
+Q: How would you present business insights?
+A: Using dashboards, reports, and concise explanations.
+Q: Why is communication important for analysts?
+A: Because insights are valuable only if stakeholders understand them.
+Q: What would you do if a client asks unclear questions?
+A: I would ask follow-up questions to clarify expectations.
+Q: What would you do if sales suddenly dropped?
+A: I would analyse trends, products, customers, and possible causes.
+Q: How would you identify underperforming products?
+A: By comparing product sales and profitability.
+Q: What would you do if customer data is incomplete?
+A: I would clean and validate the data before analysis.
+Q: How would you prioritise business questions?
+A: Based on business impact and urgency.
+Q: What makes a good business insight?
+A: An insight that is actionable and supports decisions.
+Q: Tell me about your project.
+A: It is a customer sales analysis project focused on identifying trends and customer insights.
+Q: What did you learn from the planning phase?
+A: I learned the importance of understanding business goals before analysis.
+Q: What challenges might occur during business understanding?
+A: Unclear requirements and defining measurable objectives.
+Q: How do you approach problem-solving?
+A: I break problems into smaller steps and analyse systematically.
+Q: Why do companies hire data analysts?
+A: To make data-driven business decisions.
+MOST IMPORTANT 10 QUESTIONS & ANSWERS
+Q: What was the objective of your project?
+A: To analyse customer and sales data and generate actionable business insights.
+Q: What business problem were you solving?
+A: The client lacked understanding of customer and sales performance.
+Q: What KPIs did you define?
+A: Total sales, top customers, and sales trends.
+Q: Why is business understanding important?
+A: It ensures the analysis aligns with business goals.
+Q: Explain your project workflow.
+A: Business understanding → data collection → cleaning → analysis → visualisation → reporting.
+Q: Why use SQL?
+A: To retrieve and analyse structured data efficiently.
+Q: Why use Power BI?
+A: To create interactive dashboards for stakeholders.
+Q: What deliverables would you provide?
+A: Dashboards, reports, and recommendations.
+Q: How would you communicate insights?
+A: Using clear visuals and simple business language.
+Q: Tell me about your project.
+A: It is a customer sales analysis project focused on business insights and data-driven decisions.
+--------------------------------------------------------------------------------------
+Top 10 questions and answers
+
+Q: Tell me about yourself
+A: I am a Data Science graduate from the University of Essex with a strong interest in data
+analytics. I have experience in data entry, customer service, and healthcare, which helped me
+develop attention to detail, communication, and problem-solving skills. I am currently building my
+technical skills in SQL, Excel, Power BI, and Python while working on real-world projects. I am
+passionate about using data to solve business problems and support decision-making.
+Q: What is SQL and why is it used?
+A: SQL (Structured Query Language) is used to interact with relational databases. It allows users to
+retrieve, filter, manipulate, and analyze data stored in tables, which is essential for data analysis
+and reporting.
+Q: Difference between WHERE and HAVING?
+A: WHERE filters rows before aggregation, while HAVING filters data after aggregation. WHERE is
+used on raw data, and HAVING is used with GROUP BY.
+Q: What does GROUP BY do?
+A: GROUP BY groups rows with the same values in a column and allows aggregate functions like
+SUM, COUNT, or AVG to be applied to each group.
+Q: INNER JOIN vs LEFT JOIN?
+A: INNER JOIN returns only matching records from both tables, while LEFT JOIN returns all
+records from the left table and matching records from the right table, with NULLs where no match
+exists.
+Q: Write query for total sales
+A: SELECT SUM(sales_amount) AS total_sales FROM sales;
+Q: Explain Python code
+A: This code uses pandas to create and analyze a dataset. First, a dictionary is created with
+Customer and Sales data, which is converted into a DataFrame. Then a new column 'Bonus' is
+added by calculating 10 percent of sales. Finally, the data is filtered to show only customers with
+sales greater than 150. This demonstrates basic data manipulation tasks such as creating data,
+adding columns, and filtering.
+Q: What does a data analyst do?
+A: A data analyst collects, cleans, and analyzes data to generate insights that help organizations
+make better decisions. They use tools like SQL, Excel, Python, and Power BI to interpret data and
+communicate findings to stakeholders.
+Q: Explain workflow tools
+A: In a typical workflow, SQL or Excel is used for basic data extraction and analysis. Python is used
+for deeper analysis and automation. Tools like Julius AI help generate additional insights quickly. AI
+tools like ChatGPT are used to improve explanations and understanding. Finally, Power BI or
+Tableau is used to create dashboards and present insights visually to stakeholders.
+Q: Tell me about a challenge you faced
+A: In my previous roles, I had to manage tasks under time pressure while maintaining accuracy. For
+example, during my data entry role, I handled large datasets where accuracy was critical. I
+developed a structured approach to double-check data and manage time effectively, which
+improved both efficiency and accuracy.
