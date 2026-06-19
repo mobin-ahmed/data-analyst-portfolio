@@ -1,0 +1,15 @@
+# Interview Questions
+
+## What is SQL?
+
+SQL is a language used to manage and query relational databases.
+
+## Difference between WHERE and HAVING?
+
+WHERE filters rows before aggregation.
+
+HAVING filters grouped data after aggregation.
+
+## What does a Data Analyst do?
+
+A Data Analyst collects, cleans, analyses, and visualizes data to support business decisions.
